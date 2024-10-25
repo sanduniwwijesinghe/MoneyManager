@@ -1,4 +1,4 @@
-# MoneyManager
+# Money Manager
 
 Manager is a financial management app aimed at helping users track income, expenses, and visualize their spending habits through graphical reports, offline functionality, and notifications.
 
